@@ -1,1 +1,3 @@
-# My Personal Blog.
+# Waugh Blog
+
+My personal blog.
