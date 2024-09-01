@@ -4,6 +4,7 @@
 .vscode
 
 archetypes
+archive
 assets
 config
 content
@@ -13,7 +14,6 @@ i18n
 layouts
 node_modules
 notes
-old
 resources
 static
 themes
