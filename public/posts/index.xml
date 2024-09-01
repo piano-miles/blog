@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Waugh Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Waugh Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Miles Waugh</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 14:07:30 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Sun, 01 Sep 2024 14:07:30 -0700</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>Welcome to my blog!</description>
+    </item>
+    <item>
+      <title>Demo Post</title>
+      <link>http://localhost:1313/posts/demo_post/</link>
+      <pubDate>Sat, 31 Aug 2024 20:35:33 -0700</pubDate>
+      <guid>http://localhost:1313/posts/demo_post/</guid>
+      <description>A post to use as a realistic demo.</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Wed, 03 Jul 2024 17:37:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>A first post to test features and get things set up.</description>
+    </item>
+  </channel>
+</rss>

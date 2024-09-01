@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Waugh Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Waugh Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Miles Waugh</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 14:07:30 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/tags/general/</link>
+      <pubDate>Sun, 01 Sep 2024 14:07:30 -0700</pubDate>
+      <guid>http://localhost:1313/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Showcase</title>
+      <link>http://localhost:1313/tags/showcase/</link>
+      <pubDate>Sat, 31 Aug 2024 20:35:33 -0700</pubDate>
+      <guid>http://localhost:1313/tags/showcase/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
