@@ -7,6 +7,14 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Miles Waugh</copyright>
+    <lastBuildDate>Sat, 19 Oct 2024 10:22:48 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bezier Approximations</title>
+      <link>http://localhost:1313/posts/bezier_approximations/</link>
+      <pubDate>Sat, 19 Oct 2024 10:22:48 -0700</pubDate>
+      <guid>http://localhost:1313/posts/bezier_approximations/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
