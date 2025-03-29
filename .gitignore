@@ -1,6 +1,8 @@
 .DS_Store
 .hugo_build.lock
 .markdownlint.jsonc
+.mypy_cache
+.venv
 .vscode
 
 archetypes
