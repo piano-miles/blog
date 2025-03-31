@@ -1,3 +1,7 @@
+# Posts in development
+public/posts/maximal_container
+
+# Hidden items
 .DS_Store
 .hugo_build.lock
 .markdownlint.jsonc
@@ -5,6 +9,7 @@
 .venv
 .vscode
 
+# Directories
 archetypes
 archive
 assets
@@ -12,6 +17,7 @@ config
 content
 data
 demo
+helper_scripts
 i18n
 layouts
 node_modules
@@ -20,6 +26,7 @@ resources
 static
 themes
 
+# Files
 go.mod
 go.sum
 hugo_stats.json
