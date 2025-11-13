@@ -11,5 +11,6 @@ data
 i18n
 layouts
 notes
+public/development
 static
 themes
