@@ -4,13 +4,13 @@
 .vscode
 hugo.yaml
 
-archetypes
-assets
-content
-data
-i18n
-layouts
-notes
-public/development
-static
-themes
+/archetypes/
+/assets/
+/content/
+/data/
+/i18n/
+/layouts/
+/notes/
+/public/development/
+/static/
+/themes/
