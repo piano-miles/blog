@@ -8,6 +8,7 @@ hugo.yaml
 /assets/
 /content/
 /data/
+/helper_scripts/
 /i18n/
 /layouts/
 /notes/
